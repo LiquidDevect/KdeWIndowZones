@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=KdeWindowZones
+Comment=Move windows with shortcuts into custom zones
+Icon=preferences-system-windows
+
+X-KDE-PluginInfo-Author=LiquidDevect
+X-KDE-PluginInfo-Name=kdewindowzones
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Script
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
