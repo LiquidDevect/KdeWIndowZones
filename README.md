@@ -1,4 +1,4 @@
-#KDE Window Zones
+# KDE Window Zones
 *Create custom KWin shortcuts to move windows to specific zones*
 
 Run the `GenerateScript.py` python program to generate your KWin script
